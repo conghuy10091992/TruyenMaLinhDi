@@ -1,7 +1,13 @@
 {
-  "version": 1,
-  "file_debug": "https://firebasestorage.googleapis.com/v0/b/truyenmalinhdi.appspot.com/o/TruyenMaLinhDi.zip?alt=media&token=e880ca67-93be-4260-9fae-62430613a1fc",
-  "file_release": "https://github.com/conghuy10091992/TruyenMaLinhDi/files/6451168/TruyenMaLinhDi1.zip",
-  "file_array": "https://github.com/conghuy10091992/TruyenMaLinhDi/files/6451168/TruyenMaLinhDi1.zip,https://github.com/conghuy10091992/TruyenMaLinhDi/files/6451171/TruyenMaLinhDi2.zip,https://github.com/conghuy10091992/TruyenMaLinhDi/files/6451182/TruyenMaLinhDi3.zip,https://github.com/conghuy10091992/TruyenMaLinhDi/files/6451191/TruyenMaLinhDi4.zip,https://github.com/conghuy10091992/TruyenMaLinhDi/files/6451160/TruyenMaLinhDi5.zip",
-  "total_size": 47572451
+  "infos" : {
+    "ENABLE_ADS" : true,
+    "LIST_PART" : "https://github.com/conghuy10091992/TruyenMaLinhDi/files/6451168/TruyenMaLinhDi1.zip,https://github.com/conghuy10091992/TruyenMaLinhDi/files/6451171/TruyenMaLinhDi2.zip,https://github.com/conghuy10091992/TruyenMaLinhDi/files/6451182/TruyenMaLinhDi3.zip,https://github.com/conghuy10091992/TruyenMaLinhDi/files/6451191/TruyenMaLinhDi4.zip,https://github.com/conghuy10091992/TruyenMaLinhDi/files/6451160/TruyenMaLinhDi5.zip",
+    "STATUS" : "",
+    "TOTAL_SIZE" : 47572451,
+    "URL_FILE" : "https://github.com/conghuy10091992/TruyenMaLinhDi/files/6451168/TruyenMaLinhDi1.zip",
+    "URL_TEMP" : "https://github.com/conghuy10091992/TruyenMaLinhDi/files/6451168/TruyenMaLinhDi1.zip",
+    "URL_TEMP_FIREBASE" : "https://firebasestorage.googleapis.com/v0/b/truyenmalinhdi.appspot.com/o/TruyenMaLinhDi.zip?alt=media&token=e880ca67-93be-4260-9fae-62430613a1fc",
+    "VERSION" : 7,
+    "VERSION_UPDATE" : 1
+  }
 }
